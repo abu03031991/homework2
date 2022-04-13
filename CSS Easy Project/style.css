@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Tamil:wght@100;200;400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.container {
+    background: #EAF6F6;
+    width: 100vw;
+    height: 100vh;
+}
+
+.main {
+    width: 850px;
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.cloud1 {
+    text-align: right;
+    margin-bottom: 40px;    
+}
+
+.name {
+    font-family: 'Beau Rivage', cursive;
+    font-weight: 400;
+    font-size: 90px;
+    color: #66BFBF;
+    margin-bottom: 15px;
+}
+
+.jobs {
+    color: #66BFBF;
+    font-family: 'Anek Tamil', sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.jobs_item {
+    text-decoration: underline;
+}
+
+.cloud2 {
+    text-align: left;
+}
+
+.mountain {
+    width: 598px;
+    width: 357px;
+}
+
+.mountain {
+    width: 100%;
+    height: 100%;
+}
+
+.info {
+    padding: 70px 0;
+    text-align: center;
+}
+
+.title {
+    width: 850px;
+    margin: auto;
+}
+
+.hero {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin-bottom: 40px;
+}
+
+.hero img {
+    width: 100%;
+    height: 100%;
+}
+
+
+.info .title h2 {
+    font-family: 'Anek Tamil', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    color: #66BFBF;
+}
+
+.about {
+    width: 380px;
+    font-family: 'Anek Tamil', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #40514E;
+    display: inline-block;
+    margin: 40px 0 50px;
+}
+
+
+.point {
+    display: block;
+    font-weight: 400;
+    font-size: 50px;
+    color: #EAF6F6;
+    margin-bottom: 60px;
+}
+
+.dev {
+    width: 650px;
+    margin: auto;
+    display: flex;
+    margin-top: 70px;
+}
+
+.image_box {
+    width: 150px;
+    height: 150px;
+    margin-right: 30px; 
+}
+
+.image_box img {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.dev_top {
+text-align: left;
+}
+
+
+.dev_top h3 {
+    color: #66BFBF;
+    margin-bottom: 15px;
+}
+
+.dev_top p {
+    width: 450px;
+    font-family: 'Anek Tamil', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #40514E;
+    display: inline-block;    
+}
+
+
+.challenge {
+    width: 650px;
+    margin: auto;
+    display: flex;
+    margin-top: 70px;
+}
+
+.image_card {
+    width: 150px;
+    height: 150px;
+    margin-right: 30px; 
+}
+
+.image_card img {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.dev_bottom {
+text-align: left;
+}
+
+
+.dev_bottom h3 {
+    color: #66BFBF;
+    margin-bottom: 15px;
+}
+
+.dev_bottom p {
+    width: 450px;
+    font-family: 'Anek Tamil', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #40514E;
+    display: inline-block;    
+}
